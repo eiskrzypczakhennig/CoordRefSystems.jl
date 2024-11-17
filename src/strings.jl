@@ -7,6 +7,7 @@
 # dictionary in **alphabetical order**
 const esriid2code = Dict(
   "British_National_Grid" => EPSG{27700},
+  "CH1903+_LV95" => EPSG{2056},
   "ETRF2000-PL_CS92" => EPSG{2180},
   "ETRS_1989_UTM_Zone_32N" => EPSG{25832},
   "GCS_MAGNA" => EPSG{4686},
